@@ -87,7 +87,7 @@ MARGIN E PADDING ->
 }
 
 .remember-forgot a {
-    text-decoration: none;
+    text-decoration: none; /* Sublinhado do link */
     color: #fff
 }
 
